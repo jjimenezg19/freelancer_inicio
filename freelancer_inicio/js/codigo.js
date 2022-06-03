@@ -23,3 +23,6 @@ var b = 50;
 
 var resultado = (a>b);
 alert(resultado);
+
+var nombre = prompt("Pon tu nombre", "Aqui debes pones el dato");
+document.write(nombre);
